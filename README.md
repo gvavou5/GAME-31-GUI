@@ -20,4 +20,4 @@ highest score. In case of equal score there is no winner in the specific round.
 
 # Implementation 
 This version of Game 31 is implemented using Python. 
-The editor that it has been used in PyCharm CE.
+Editor: PyCharm CE
